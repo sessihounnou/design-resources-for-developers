@@ -727,6 +727,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [ChartJS](https://www.chartjs.org/)| Simple yet flexible JavaScript charting for designers & developers |
+| [apexcharts](https://apexcharts.com//)| Simple yet flexible JavaScript charting for designers & developers |
 | [FrappeJS](https://frappe.io/charts)| Includes Green squares grid like in GitHub, and other charts to use. |
 | [G2Plot](https://g2plot.antv.vision/en)| G2Plot is an interactive and responsive charting library based on the grammar of graphics. |
 | [Google Charts](https://developers.google.com/chart/)| Get the experience from Google to create similar charts that Google uses. |
